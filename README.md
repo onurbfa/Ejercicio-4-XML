@@ -5,7 +5,7 @@
       <alumno>
         <dni>10937582A</dni>
         <nombre>Eduardo Gonzalez García</nombre>
-        </alumno>
+      </alumno>
       <alumno>
         <dni>67392863B</dni>
         <nombre>Cesar Gomez Sánchez</nombre>
